@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.6.1",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.26.1",
+    "css-modules-require-hook": "^4.0.5",
+    "extract-text-webpack-plugin": "2.0.0-beta.4",
+    "next": "^2.0.0-beta",
+    "postcss-loader": "^1.2.1",
+    "style-loader": "^0.13.1"
+  }
+}
