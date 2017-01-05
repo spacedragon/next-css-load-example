@@ -3,9 +3,9 @@
 
 ## How to use
 
- npm install
+ `npm install`
  
- node index.js
+ `node index.js`
 
 ## The idea behind the example
 
